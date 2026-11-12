@@ -479,7 +479,7 @@ window.LM90_DATA = (function () {
     {
       id: "xuhaiDong", no: "LM-10", name: "徐海东", years: "1900—1970", glyph: "徐",
       role: "红二十五军军长", tag: "将领", cat: "general",
-      portrait: "assets/images/hsrw/zr.png",
+      portrait: "assets/images/figures/xuhaidong.jpg",
       facts: [
         ["籍贯", "湖北黄陂（今武汉黄陂）"],
         ["长征身份", "红二十五军军长"],
