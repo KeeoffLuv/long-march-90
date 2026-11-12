@@ -799,7 +799,7 @@ window.LM90_DATA = (function () {
     liuzhidan: "assets/images/figures/liuzhidan.jpg",
     maozedong: "assets/images/figures/maozedong.jpg",
     pengdehuai: "assets/images/figures/pengdehuai.jpg",
-    xuhaiDong: "assets/images/figures/xuhaiDong.jpg",
+   xuhaiDong: "assets/images/figures/xuhaidong.jpg",
     xuxiangqian: "assets/images/figures/xuxiangqian.jpg",
     yangdezhi: "assets/images/figures/yangdezhi.jpg",
     zhouenlai: "assets/images/figures/zhouenlai.jpg",
